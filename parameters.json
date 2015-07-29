@@ -227,7 +227,7 @@
     },
     {
       "whp_name": "CTDSAL", 
-      "whp_unit": "PSS-78", 
+      "whp_unit": "PSU", 
       "flag_w": "woce_ctd", 
       "cf_name": null, 
       "udunits": "", 
@@ -235,7 +235,7 @@
       "numeric_min": 0.0, 
       "numeric_max": 42.0, 
       "string_format": "%8.4f", 
-      "description": "The corrected salinity as measured (calculated) by the CTD.", 
+      "description": "The corrected salinity as measured (calculated) by the CTD. Undocumented Salinity Scale.", 
       "note": "", 
       "warning": "", 
       "whp_tier": "primary"
